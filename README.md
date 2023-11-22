@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jaz @Jaz-JThompson
-- 🌱 I’m currently learning about NNs and ML tools for fusion plasmas
+- 🌱 I’m currently doing my PhD on Machine learning and nuclear safety
 - 📫 Contact me on: https://www.linkedin.com/in/jasminjoshi-thompson/
 
 <!---
